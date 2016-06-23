@@ -1,0 +1,6 @@
+---
+applications:
+- name: i058650-java
+  memory: 256M
+  instances: 1
+  path: target/hello-java.war
